@@ -1,2 +1,0 @@
-# LibraaryApp
-Created with CodeSandbox

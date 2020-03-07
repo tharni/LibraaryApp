@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.spacer {
+  margin-top: 1em;
+  display: block;
+}
+
+.left-space {
+  margin-left: 50px;
+}
